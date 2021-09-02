@@ -1,0 +1,39 @@
+.singlePost{
+    
+}
+.singlePostWrapper{
+    padding: 20px;
+    padding-right: 0;
+
+}
+.singlePostImg{
+    width: 80% ;
+    height: 300px;
+    border-radius: 5px;
+    object-fit: cover;
+    margin-left: 100px;
+}
+.singlePostTitle{
+    text-align: center;
+    font-family: 'varela Round',sans-serif;
+    font-size: 24px;
+    margin: 10px;
+}
+.singlePostContent{
+    font-family: 'josefin sans',sans-serif;
+    color: #666;
+    font-size: 18px;
+    line-height: 25px;
+    width: 80%;
+    margin-left: 120px;
+}
+.singlePostContent::first-letter{
+    margin-left: 20px;
+    font-size: 30px;
+    min-width:600px;
+}
+.youtube-box{
+    margin-left: 300px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
